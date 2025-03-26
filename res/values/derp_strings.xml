@@ -51,4 +51,8 @@
     <string name="status_bar_logo_style_tux">Tux</string>
     <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
     <string name="status_bar_logo_style_mint">Linux Mint</string>
+
+    <!-- Data disabled indicator -->
+    <string name="data_disabled_icon_title">Data disabled indicator</string>
+    <string name="data_disabled_icon_summary">Display an indicator next to signal icon when data is disabled</string>
 </resources>
