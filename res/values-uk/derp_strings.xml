@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="data_disabled_icon_summary">Відображати індикатор поруч із піктограмою сигналу мобильних даних, коли мобільні дані вимкнені</string>
+  <!-- Data disabled indicator -->
+  <string name="data_disabled_icon_title">Індикатор вимкненої мережі</string>
+  <string name="status_bar_4g_icon_summary">Замінити іконку \"LTE\" на \"4G\"</string>
+  <!-- 4G icon instead LTE -->
+  <string name="status_bar_4g_icon_title">Іконка 4G</string>
+  <string name="status_bar_logo_position_left">Зліва</string>
+  <string name="status_bar_logo_position_right">Справа</string>
+  <string name="status_bar_logo_position_title">Положення значку</string>
+  <string name="status_bar_logo_style_adidas">Адідас</string>
+  <string name="status_bar_logo_style_alien">Чужий</string>
+  <string name="status_bar_logo_style_android">Андроєд</string>
+  <string name="status_bar_logo_style_apple">Apple</string>
+  <string name="status_bar_logo_style_avengers">Месники</string>
+  <string name="status_bar_logo_style_batman">Бетмен</string>
+  <string name="status_bar_logo_style_batman_tdk">Бетмен (Темний лицар)</string>
+  <string name="status_bar_logo_style_beats">Beats</string>
+  <string name="status_bar_logo_style_biohazard">Біологічна небезпека</string>
+  <string name="status_bar_logo_style_blackberry">BlackBerry</string>
+  <string name="status_bar_logo_style_cannabis">Канабіс</string>
+  <string name="status_bar_logo_style_captain_america">Капітан Америка</string>
+  <string name="status_bar_logo_style_derp">DerpFest (за замовчуванням)</string>
+  <string name="status_bar_logo_style_emoticon_cool">Смайлик круто</string>
+  <string name="status_bar_logo_style_emoticon_devil">Смайлик диявола</string>
+  <string name="status_bar_logo_style_fire">Вогонь</string>
+  <string name="status_bar_logo_style_flash">Флеш</string>
+  <string name="status_bar_logo_style_ghost">Привид</string>
+  <string name="status_bar_logo_style_heart">Серце</string>
+  <string name="status_bar_logo_style_ironman">Залізна людина</string>
+  <string name="status_bar_logo_style_mint">Лінукс Мінт</string>
+  <string name="status_bar_logo_style_nike">Найк</string>
+  <string name="status_bar_logo_style_ninja">Ніндзя</string>
+  <string name="status_bar_logo_style_pacman">Пакмен</string>
+  <string name="status_bar_logo_style_puma">Puma</string>
+  <string name="status_bar_logo_style_robot">Робот</string>
+  <string name="status_bar_logo_style_rog">ROG</string>
+  <string name="status_bar_logo_style_spiderman">Людина-павук</string>
+  <string name="status_bar_logo_style_superman">Супермен</string>
+  <string name="status_bar_logo_style_title">Стиль логотипу</string>
+  <string name="status_bar_logo_style_tux">Туксик</string>
+  <string name="status_bar_logo_style_ubuntu">Убунту</string>
+  <string name="status_bar_logo_style_windows">Віндовс</string>
+  <string name="status_bar_logo_style_xbox">Xbox</string>
+  <string name="status_bar_logo_summary">Відображення кастомної іконки ліворуч або праворуч на рядку стану</string>
+  <!-- Statusbar logo -->
+  <string name="status_bar_logo_title">Кастомне лого</string>
+  <string name="status_bar_lyric_summary">Показувати текст пісні в рядку стану (необхідна підтримка програми)</string>
+  <!-- Statusbar lyric -->
+  <string name="status_bar_lyric_title">Текст пісні в рядку стану</string>
+  <string name="status_bar_show_lyric_title">Увімкнути текст пісні в рядку стану</string>
+  <!-- Volume dialog timeout -->
+  <string name="volume_dialog_timeout_title">Час очікування діалогового вікна гучності</string>
+</resources>
