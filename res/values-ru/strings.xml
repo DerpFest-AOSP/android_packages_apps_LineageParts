@@ -550,7 +550,7 @@
     <string name="status_bar_battery_style_icon_landscape">Расположение значка (Слева)</string>
     <string name="status_bar_battery_style_icon_ios_15">IOS 15</string>
     <string name="status_bar_toggle_brightness">Контроль яркости</string>
-    <string name="status_bar_toggle_brightness_summary">Регулировать яркость, проводя по строке состояния</string>
+    <string name="status_bar_toggle_brightness_summary">Регулируйте яркость, проводя по строке состояния</string>
     <string name="status_bar_tint_icons_title">Подкрасить значки строки состояния</string>
     <string name="touchscreen_gesture_action_wake_device">Разбудить устройство</string>
     <string name="previous_page_content_description">Предыдущий</string>
